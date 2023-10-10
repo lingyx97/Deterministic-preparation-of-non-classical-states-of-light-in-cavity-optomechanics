@@ -1,0 +1,4 @@
+1. trotter [60,30] and [60,60]
+2. trotter [60,25]
+3. trotter [60,25] driven evo corrected
+4. trotter [60,25] half evo corrected
