@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "This code is used for the paper doi.org/10.1103/PhysRevResearch.3.033071"
+authors:
+- family-names: "Ling"
+  given-names: "Yuxun"
+title: "Deterministic-preparation-of-non-classical-states-of-light-in-cavity-optomechanics"
+version: 1.0.0
+date-released: 2023-10-11
+url: "https://github.com/lingyx97/Deterministic-preparation-of-non-classical-states-of-light-in-cavity-optomechanics"
